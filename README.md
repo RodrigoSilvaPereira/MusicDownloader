@@ -1,6 +1,6 @@
 # Music Downloader
 
-O Music Downloader é uma aplicação Python que permite aos usuários pesquisar e baixar músicas do YouTube para criar suas próprias playlists. Com este aplicativo simples, os usuários podem montar suas listas de reprodução personalizadas com suas músicas favoritas do YouTube e baixá-las para ouvir offline.
+O Music Downloader é uma aplicação Python que permite aos usuários pesquisar e baixar músicas do YouTube para criar suas próprias playlists. Com este sistema simples, os usuários podem montar suas listas de reprodução personalizadas com suas músicas favoritas do YouTube e baixá-las para ouvir offline.
 
 ## Funcionalidades
 
@@ -19,7 +19,7 @@ O Music Downloader é uma aplicação Python que permite aos usuários pesquisar
 
 ## Pré-requisitos
 
-Certifique-se de ter o Python instalado em seu sistema. Você também precisará instalar as seguintes bibliotecas Python:
+Certifique-se de ter o Python instalado em seu sistema.
 
 
 ## Uso
