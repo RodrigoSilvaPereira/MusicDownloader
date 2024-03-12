@@ -1,0 +1,6 @@
+As bibliotecas necessárias para este código são:
+
+1 - pytube: Esta biblioteca é usada para baixar vídeos e áudios do YouTube.
+2 - os: Esta é uma biblioteca padrão do Python para interagir com o sistema operacional, neste caso, é usada para manipular arquivos e pastas.
+3 - requests: Esta biblioteca é usada para fazer solicitações HTTP, neste caso, para obter o conteúdo da página da web do YouTube.
+4 - re: Esta é a biblioteca de expressões regulares do Python, usada para manipulação de strings, neste caso, para manipular o título do vídeo do YouTube.
